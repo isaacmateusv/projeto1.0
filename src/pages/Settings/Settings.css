@@ -1,0 +1,16 @@
+.page-content {
+    padding: 40px;
+    color: #e2e8f0;
+    background-color: #0f172a;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  h1 {
+    color: #38bdf8;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    color: #cbd5e1;
+  }
